@@ -1,1 +1,0 @@
-prueba para subir un documento a git. Cuando github desktop detecte el documento nos dirá que hay un cambio. Después, sincronizaremos con github y el cambio se verá reflejado
